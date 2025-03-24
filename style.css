@@ -321,3 +321,31 @@ a:hover, .btn:hover {
     padding: 80px; /* Ajuste o valor conforme necessário */
     text-align: center;
 }
+
+
+
+/* Estilo geral para a seção Skills e Idiomas */
+.skills, .idiomas {
+    display: flex;
+    flex-direction: column; /* Empilhar itens verticalmente */
+    align-items: center; /* Alinha os itens no centro horizontalmente */
+    justify-content: center; /* Alinha os itens no centro verticalmente */
+    max-width: 800px; /* Limita a largura para evitar que se estique demais */
+    margin: 0 auto; /* Centraliza as seções */
+    padding: 20px;
+}
+
+/* Ajuste para telas menores (dispositivos móveis) */
+@media (max-width: 768px) {
+    .skills, .idiomas {
+        max-width: 100%; /* Garante que a largura não ultrapasse a tela */
+        padding: 10px; /* Ajuste o padding se necessário */
+    }
+}
+
+/* Estilo adicional para ser responsivo */
+@media (max-width: 480px) {
+    .skills, .idiomas {
+        padding: 5px; /* Ajuste para telas muito pequenas */
+    }
+}
