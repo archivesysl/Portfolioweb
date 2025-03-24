@@ -167,7 +167,6 @@ header p {
 
 /* Estilo dos botões de redes sociais */
 
-
 .social-buttons {
     display: flex;
     justify-content: center;
@@ -317,3 +316,8 @@ a:hover, .btn:hover {
     background-color: purple; /* Cor ao passar o mouse e efetuar download*/
   }
   
+
+  footer {
+    padding: 80px; /* Ajuste o valor conforme necessário */
+    text-align: center;
+}
