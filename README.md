@@ -1,10 +1,9 @@
-# Portfólio  Pessoal
+## Portfólio Web Pessoal
 
 
-## Nome do Projeto
-Portfólio Web Pessoal - Meu portfólio de desenvolvedor front-end.
+## Nome do Projeto : Portfólio Web Pessoal - Meu portfólio de desenvolvedor front-end.
 
-🔥 **Introdução**  
+ **Introdução**  
 Este é o meu portfólio web pessoal, onde apresento meus projetos, habilidades e informações de contato como desenvolvedor. O site foi criado para mostrar minha jornada, o que já aprendi e o que sou capaz de desenvolver.
 
 ## ⚙️ **Pré-requisitos**
@@ -21,24 +20,3 @@ Abra o terminal e rode o seguinte comando para clonar o repositório:
 
 ```bash
 git clone https://github.com/archivesysl/Portfolioweb
-
-### Etapa 2: Abra o arquivo `index.html`
-Após clonar o repositório, entre na pasta do projeto e abra o arquivo `index.html` no seu navegador.
-
-## 🛠️ **Executando os testes**
-Não há testes automatizados configurados para esse projeto até o momento, mas você pode testar visualmente o site ao abrir o arquivo `index.html` no navegador.
-
-## 📦 **Tecnologias usadas**
-**Front-end:**
-- HTML
-- CSS
-
-## 👷 Autores 
-Natan Da Luz - Desenvolvedor
-[GitHub](https://github.com/archivesysl)  
-[LinkedIn](https://www.linkedin.com/in/natandaluz)  
-[Instagram](https://instagram.com/nat_andev)
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
