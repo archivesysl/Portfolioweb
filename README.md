@@ -1,28 +1,41 @@
-# 🎂 Projeto: Site de Receitas de Bolo de Chocolate
+# Portfólio Web Pessoal
 
-Este é um projeto simples de um site de receitas de bolo de chocolate. Ele foi desenvolvido para praticar e melhorar habilidades em HTML, CSS e JavaScript.
 
-## 🔥 Introdução
+## Nome do Projeto
+Portfólio Web Pessoal - Meu portfólio de desenvolvedor front-end.
 
-Este projeto apresenta um site com a receita de bolo de chocolate, sua história, lista de ingredientes, modo de preparo e uma galeria. O objetivo é fornecer uma interface amigável e interativa para qualquer pessoa que queira aprender a fazer bolo de chocolate.
+🔥 **Introdução**  
+Este é o meu portfólio web pessoal, onde apresento meus projetos, habilidades e informações de contato como desenvolvedor. O site foi criado para mostrar minha jornada, o que já aprendi e o que sou capaz de desenvolver.
 
-Funcionalidades:
-- Exibe a história do bolo de chocolate.
-- Lista de ingredientes para a receita.
-- Explicação do modo de preparo passo a passo.
-- Galeria de imagens relacionadas à receita.
-- Alerta de boas-vindas ao carregar a página.
+## ⚙️ **Pré-requisitos**
+Antes de começar, verifique se você tem o seguinte instalado:
 
-## ⚙️ Pré-requisitos
+- **Git**: Para clonar o repositório.
+- **Um navegador de internet**: Para visualizar o projeto localmente.
 
-Antes de começar, certifique-se de que você atende aos seguintes requisitos:
-- Um navegador da web moderno (Google Chrome, Firefox, etc.).
-- Editor de código para visualizar e editar o código-fonte (VSCode, Sublime Text, etc.).
+## 🔨 **Guia de instalação**
+Siga os passos abaixo para rodar o projeto localmente:
 
-## 🔨 Guia de instalação
+### Etapa 1: Clone o repositório
+Abra o terminal e rode o seguinte comando para clonar o repositório:
 
-Siga os passos abaixo para rodar o projeto em seu ambiente local.
+```bash
+git clone https://github.com/archivesysl/Portfolioweb
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/archivesysl/trainincakesite
+Etapa 2: Abra o arquivo index.html
+Após clonar o repositório, entre na pasta do projeto e abra o arquivo index.html no seu navegador.
+
+🛠️ Executando os testes
+Não há testes automatizados configurados para esse projeto até o momento, mas você pode testar visualmente o site ao abrir o arquivo index.html no navegador.
+
+📦 Tecnologias usadas
+Front-end:
+
+HTML
+CSS
+
+👷 Autores
+Natan Da Luz - Desenvolvedor Front-End
+GitHub
+LinkedIn
+Instagram
