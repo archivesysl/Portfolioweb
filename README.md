@@ -1,31 +1,28 @@
-## Portfólio Web Pessoal
+# 🎂 Projeto: Site de Receitas de Bolo de Chocolate
 
-Este é o meu portfólio web pessoal, onde apresento meus projetos, habilidades e informações de contato como desenvolvedor. O site foi criado para mostrar minha jornada, o que já aprendi e o que sou capaz de desenvolver.
+Este é um projeto simples de um site de receitas de bolo de chocolate. Ele foi desenvolvido para praticar e melhorar habilidades em HTML, CSS e JavaScript.
 
-Tecnologias Utilizadas
-HTML: Para estruturar o conteúdo do site.
+## 🔥 Introdução
 
-CSS: Para estilizar e deixar o site responsivo, com uma interface limpa e profissional.
+Este projeto apresenta um site com a receita de bolo de chocolate, sua história, lista de ingredientes, modo de preparo e uma galeria. O objetivo é fornecer uma interface amigável e interativa para qualquer pessoa que queira aprender a fazer bolo de chocolate.
 
-Funcionalidades
-Seção Inicial: Apresentação com meu nome..sobre mim e um botao interativo onde você baixa o meu CV para saber mais afundo de minhas habilidades.
-Seção Sobre Mim: Um resumo sobre quem sou, minha trajetória e minhas habilidades como desenvolvedor.
-Seção Projetos: Lista de projetos que desenvolvi, com links para os respectivos repositórios no GitHub.
-Seção Contato: Informações de contato, incluindo links para minhas redes sociais como GitHub, LinkedIn e Instagram.
+Funcionalidades:
+- Exibe a história do bolo de chocolate.
+- Lista de ingredientes para a receita.
+- Explicação do modo de preparo passo a passo.
+- Galeria de imagens relacionadas à receita.
+- Alerta de boas-vindas ao carregar a página.
 
+## ⚙️ Pré-requisitos
 
-O site está hospedado na Vercel e pode ser acessado pelo link abaixo:
+Antes de começar, certifique-se de que você atende aos seguintes requisitos:
+- Um navegador da web moderno (Google Chrome, Firefox, etc.).
+- Editor de código para visualizar e editar o código-fonte (VSCode, Sublime Text, etc.).
 
-https://portfolioweb-olive-tau.vercel.app/
+## 🔨 Guia de instalação
 
-Como Rodar Localmente
-Para rodar o projeto localmente:
+Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
-Clone o repositório:
-
-git clone https://github.com/archivesysl/Portfolioweb
-Abra o arquivo index.html no seu navegador para visualizar o site.
-
-Autor
-Natan Da Luz.
-
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/archivesysl/trainincakesite
