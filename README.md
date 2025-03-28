@@ -13,7 +13,7 @@ Seção Sobre Mim: Um resumo sobre quem sou, minha trajetória e minhas habilida
 Seção Projetos: Lista de projetos que desenvolvi, com links para os respectivos repositórios no GitHub.
 Seção Contato: Informações de contato, incluindo links para minhas redes sociais como GitHub, LinkedIn e Instagram.
 
-Visualização
+
 O site está hospedado na Vercel e pode ser acessado pelo link abaixo:
 
 https://portfolioweb-olive-tau.vercel.app/
