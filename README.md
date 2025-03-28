@@ -33,24 +33,12 @@ Não há testes automatizados configurados para esse projeto até o momento, mas
 - HTML
 - CSS
 
-## 👷 **Autores**
-**Natan Da Luz** - Desenvolvedor Front-End  
+## 👷 Autores 
+Natan Da Luz - Desenvolvedor
 [GitHub](https://github.com/archivesysl)  
 [LinkedIn](https://www.linkedin.com/in/natandaluz)  
 [Instagram](https://instagram.com/nat_andev)
 
-## 📄 **Licença**
+## 📄 Licença
+
 Este projeto está sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-## 💭 **FAQ - Perguntas frequentes**
-
-**Questão 1**  
-*Como posso visualizar o site localmente?*  
-Resposta: Para visualizar o site localmente, basta clonar o repositório e abrir o arquivo `index.html` no seu navegador.
-
-**Questão 2**  
-*Quais tecnologias foram usadas neste projeto?*  
-Resposta: Este projeto foi feito com HTML e CSS, sem o uso de JavaScript.
-
-## 💡 **Expressões de gratidão**
-Agradeço a todos que me ajudaram ao longo dessa jornada de aprendizado e desenvolvimento. Para suporte, mande um email para [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com).
