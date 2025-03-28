@@ -22,20 +22,35 @@ Abra o terminal e rode o seguinte comando para clonar o repositório:
 ```bash
 git clone https://github.com/archivesysl/Portfolioweb
 
-Etapa 2: Abra o arquivo index.html
-Após clonar o repositório, entre na pasta do projeto e abra o arquivo index.html no seu navegador.
+### Etapa 2: Abra o arquivo `index.html`
+Após clonar o repositório, entre na pasta do projeto e abra o arquivo `index.html` no seu navegador.
 
-🛠️ Executando os testes
-Não há testes automatizados configurados para esse projeto até o momento, mas você pode testar visualmente o site ao abrir o arquivo index.html no navegador.
+## 🛠️ **Executando os testes**
+Não há testes automatizados configurados para esse projeto até o momento, mas você pode testar visualmente o site ao abrir o arquivo `index.html` no navegador.
 
-📦 Tecnologias usadas
-Front-end:
+## 📦 **Tecnologias usadas**
+**Front-end:**
+- HTML
+- CSS
 
-HTML
-CSS
+## 👷 **Autores**
+**Natan Da Luz** - Desenvolvedor Front-End  
+[GitHub](https://github.com/archivesysl)  
+[LinkedIn](https://www.linkedin.com/in/natandaluz)  
+[Instagram](https://instagram.com/nat_andev)
 
-👷 Autores
-Natan Da Luz - Desenvolvedor Front-End
-GitHub
-LinkedIn
-Instagram
+## 📄 **Licença**
+Este projeto está sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+## 💭 **FAQ - Perguntas frequentes**
+
+**Questão 1**  
+*Como posso visualizar o site localmente?*  
+Resposta: Para visualizar o site localmente, basta clonar o repositório e abrir o arquivo `index.html` no seu navegador.
+
+**Questão 2**  
+*Quais tecnologias foram usadas neste projeto?*  
+Resposta: Este projeto foi feito com HTML e CSS, sem o uso de JavaScript.
+
+## 💡 **Expressões de gratidão**
+Agradeço a todos que me ajudaram ao longo dessa jornada de aprendizado e desenvolvimento. Para suporte, mande um email para [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com).
