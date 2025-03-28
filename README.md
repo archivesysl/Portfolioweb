@@ -22,10 +22,10 @@ Como Rodar Localmente
 Para rodar o projeto localmente:
 
 Clone o repositório:
-git clone https://github.com/archivesysl/Portfolioweb
 
+git clone https://github.com/archivesysl/Portfolioweb
 Abra o arquivo index.html no seu navegador para visualizar o site.
 
 Autor
-Natan Da Luz - Desenvolvedor Front-End
+Natan Da Luz.
 
