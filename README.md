@@ -28,8 +28,7 @@ Após clonar o repositório, entre na pasta do projeto e abra o arquivo index.ht
 🛠️ Executando os testes
 Atualmente, não há testes automatizados configurados para esse projeto, mas você pode testar visualmente o site ao abrir o arquivo index.html no seu navegador.
 
-📦 Tecnologias usadas
-HTML & CSS
+📦 Tecnologias usadas: HTML & CSS
 
 Autor
 Natan Da Luz 
