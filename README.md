@@ -1,33 +1,16 @@
-Website de Portfólio
-Este é o meu site pessoal de portfólio criado para mostrar minhas habilidades, projetos e informações de contato como desenvolvedor.
+Portfólio Web Pessoal
+Este é o meu portfólio web pessoal, onde apresento meus projetos, habilidades e informações de contato como desenvolvedor. O site foi criado para mostrar minha jornada, o que já aprendi e o que sou capaz de desenvolver.
 
 Tecnologias Utilizadas
-HTML: Para estruturar o site e criar seu layout básico.
+HTML: Para estruturar o conteúdo do site.
 
-CSS: Para estilizar o site, incluindo design responsivo e animações.
+CSS: Para estilizar e deixar o site responsivo, com uma interface limpa e profissional.
 
 Funcionalidades
-Seção Home: Uma introdução com meu nome e título.
+Seção Inicial: Apresentação com meu nome e o cargo desejado.
 
-Seção Sobre Mim: Um resumo de quem sou, meu histórico e minhas habilidades.
+Seção Sobre Mim: Um resumo sobre quem sou, minha trajetória e minhas habilidades como desenvolvedor.
 
-Seção Projetos: Uma vitrine dos meus projetos, cada um com uma breve descrição e link para o respectivo repositório no GitHub.
+Seção Projetos: Lista de projetos que desenvolvi, com links para os respectivos repositórios no GitHub.
 
-Seção Contato: Inclui meus dados de contato e links para redes sociais (Instagram, GitHub, LinkedIn).
-
-Implantação
-O portfólio está implantado no Vercel e pode ser acessado em Website do Portfólio.
-
-Como Rodar Localmente
-Para rodar este projeto localmente:
-
-Clone o repositório:
-
-git clone https://github.com/archivesysl/Portfolioweb
-
-Abra o arquivo index.html no seu navegador para visualizar o site.
-
-Autor
-Criado por Natan Da Luz.
-
-Você pode entrar em contato comigo no GitHub, LinkedIn ou Instagram.
+Seção Contato: Informações de contato, incluindo links para minhas redes sociais como GitHub, LinkedIn e Instagram.
