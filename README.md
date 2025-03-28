@@ -1,68 +1,33 @@
-# Portfólio Natan Da Luz
+Website de Portfólio
+Este é o meu site pessoal de portfólio criado para mostrar minhas habilidades, projetos e informações de contato como desenvolvedor.
 
-Bem-vindo ao meu portfólio! Este é um projeto pessoal desenvolvido para apresentar minha trajetória como desenvolvedor Full Stack e mostrar alguns dos projetos que já criei, além das tecnologias que domino. Você pode acessá-lo [aqui](https://github.com/archivesysl).
+Tecnologias Utilizadas
+HTML: Para estruturar o site e criar seu layout básico.
 
-## 🖥 Sobre Mim
+CSS: Para estilizar o site, incluindo design responsivo e animações.
 
-Eu sou Natan Da Luz, desenvolvedor Full Stack com experiência em:
+Funcionalidades
+Seção Home: Uma introdução com meu nome e título.
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS.
-- **Backend:** Python (Pandas, Tkinter), Java, SQL.
-- Busco sempre criar soluções inovadoras e eficientes, aplicando boas práticas de desenvolvimento.
-- Tenho uma paixão por aprender novas tecnologias e atualmente estou expandindo meus conhecimentos em **Java**.
+Seção Sobre Mim: Um resumo de quem sou, meu histórico e minhas habilidades.
 
-## 🚀 Tecnologias Utilizadas
+Seção Projetos: Uma vitrine dos meus projetos, cada um com uma breve descrição e link para o respectivo repositório no GitHub.
 
-- **HTML5** - Estruturação de páginas web.
-- **CSS3** - Estilização e design.
-- **JavaScript** - Lógica de programação frontend.
-- **Python** - Desenvolvimento e automação.
-- **Java** - Desenvolvimento de software.
-- **SQL** - Consultas a bancos de dados.
-- **Git & GitHub** - Controle de versão e repositório de código.
+Seção Contato: Inclui meus dados de contato e links para redes sociais (Instagram, GitHub, LinkedIn).
 
-## 🛠️ Hard Skills
+Implantação
+O portfólio está implantado no Vercel e pode ser acessado em Website do Portfólio.
 
-- HTML, CSS, JavaScript
-- Bootstrap, Tailwind CSS
-- Python (Pandas, Tkinter)
-- Java
-- SQL e Banco de Dados
+Como Rodar Localmente
+Para rodar este projeto localmente:
 
-## 💬 Idiomas
+Clone o repositório:
 
-- Português (Nativo)
-- Inglês (Avançado)
-- Francês (Básico - Estudando)
+git clone https://github.com/archivesysl/Portfolioweb
 
-## 🎯 Soft Skills
+Abra o arquivo index.html no seu navegador para visualizar o site.
 
-- Trabalho em equipe
-- Boa comunicação
-- Resolução de problemas
-- Agilidade e adaptação
-- Pensamento crítico
-- Proatividade
+Autor
+Criado por Natan Da Luz.
 
-## 🗂️ Projetos
-
-### 1. **Escala de Trabalho com Python**
-- Ferramenta desktop para otimizar cadastro e gestão de escalas de trabalho.
-- Tecnologias: Python, Tkinter, Pandas.
-- [Repositório GitHub](https://github.com/archivesysl/bettertable)
-
-### 2. **Website Responsivo: Red Dead Redemption 2**
-- Website sobre o jogo, destacando trilha sonora, personagens e cidades.
-- Tecnologias: HTML, CSS, JavaScript.
-- Hospedagem: Vercel.
-- [Repositório GitHub](https://github.com/archivesysl/reddead2)
-
-## 📞 Contato
-
-Entre em contato comigo através das minhas redes sociais:
-
-- **LinkedIn:** [Natan Da Luz](https://www.linkedin.com/in/natan-da-luz-3156582a2/)
-- **GitHub:** [@archivesysl](https://github.com/archivesysl)
-- **Email:** [natandaluz01@gmail.com](mailto:natandaluz01@gmail.com)
-
-Obrigado pela sua visita! 👋
+Você pode entrar em contato comigo no GitHub, LinkedIn ou Instagram.
